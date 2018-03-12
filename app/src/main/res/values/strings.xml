@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Photo</string>
+    <string name="name_button">Take photo</string>
+    <string name="name_view">Input name</string>
+    <string name="enterNameOfPhoto">Enter the name of photo</string>
+    <string name="enterNameOfPhotoWarning">Please, enter the name of photo!</string>
+    <string name="storagePermissionDenied">You must allow the application to access the storage!</string>
+</resources>
